@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949200200232",
+    "project_id": "tour-fbed8",
+    "storage_bucket": "tour-fbed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949200200232:android:203467f8b20df4444b8b1d",
+        "android_client_info": {
+          "package_name": "creative.world.ideathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949200200232-lalmkp8j6i4eigftuhpr7krg7q2929ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjwmc-7kdbipg_TmA0WGK9kLCNXRfF_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949200200232-lalmkp8j6i4eigftuhpr7krg7q2929ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
